@@ -1,4 +1,4 @@
-def ff(x, f):
+def ff(x, f):   # x - число в десятичной    f - система счисления
     alf = '0123456789ABCDEFGH'
     r = ''
     while x != 0:
